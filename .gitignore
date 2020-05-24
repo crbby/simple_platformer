@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+#Project Specific
+/simple_platformer/simple_platformer.pro.user
+/build-simple_platformer-Desktop-Debug/
