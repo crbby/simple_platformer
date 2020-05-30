@@ -7,7 +7,9 @@ LIBS += -lsfml-graphics -lsfml-window -lsfml-system
 
 SOURCES += \
         animatedsprite.cpp \
-        main.cpp
+        main.cpp \
+        world.cpp
 
 HEADERS += \
-    animatedsprite.h
+    animatedsprite.h \
+    world.h

@@ -5,7 +5,8 @@ AnimatedSprite::AnimatedSprite(sf::Texture &texture){
 }
 
 void AnimatedSprite::sprMove(){
-	//todo auto bounds = this->getGlobalBounds();
+	auto bounds = this->getGlobalBounds();
+
 	if(sf::Keyboard::isKeyPressed(sf::Keyboard::Up))	{move(      0, -vel_m);}
 	if(sf::Keyboard::isKeyPressed(sf::Keyboard::Down))	{move(      0,  vel_m);}
 	if(sf::Keyboard::isKeyPressed(sf::Keyboard::Left))	{move( -vel_m,      0);}

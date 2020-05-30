@@ -7,6 +7,7 @@ public:
 	AnimatedSprite(sf::Texture &texture);
 	void sprMove();
 private:
+	float g = 2.f;
 	float vel_m = 10;
 
 };
