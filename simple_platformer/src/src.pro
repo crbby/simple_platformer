@@ -6,4 +6,8 @@ CONFIG -= qt
 LIBS += -lsfml-graphics -lsfml-window -lsfml-system
 
 SOURCES += \
+        animatedsprite.cpp \
         main.cpp
+
+HEADERS += \
+    animatedsprite.h
