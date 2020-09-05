@@ -52,16 +52,20 @@ Celem gry jest jak najszybsze ukończenie poziomu, nie tracąc przy tym wszystki
 
 
 
-Szerokość poziomu pozyskiwana jest z *długości* pierwszego indeksu w pliku
+Szerokość poziomu pozyskiwana jest z *długości* pierwszej linijki w pliku
 
-Przykładowy poziom: pliki lvl1 do lvl3 ( .txt ).
+
 Lista poziomów jest edytowalna w pliku źródłowym, `404` linijka. 
 
+Przykładowy poziom: pliki lvl1 do lvl3 ( .txt ).
 
 
 
 
 
 
+
+<sub><sup>
 Ps. 
 src nie zostało rozbite na klasy, wszystkie klasy zdefiniowane są w main.cpp
+  </sub></sup>
