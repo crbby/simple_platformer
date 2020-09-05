@@ -55,9 +55,7 @@ Celem gry jest jak najszybsze ukończenie poziomu, nie tracąc przy tym wszystki
 Szerokość poziomu pozyskiwana jest z *długości* pierwszego indeksu w pliku
 
 Przykładowy poziom: pliki lvl1 do lvl3 ( .txt ).
-
-
-
+Lista poziomów jest edytowalna w pliku źródłowym, `404` linijka. 
 
 
 
