@@ -60,8 +60,13 @@ Lista poziomów jest edytowalna w pliku źródłowym, `404` linijka.
 Przykładowy poziom: pliki lvl1 do lvl3 ( .txt ).
 
 
+### 4. Wykorzystane zasoby
 
+Tiles from "Platformer Art Redux" - Creative Commons (CC0 1.0).
+https://kenney.nl/assets/platformer-art-pixel-redux
 
+Font from Pangolin - SIL Open Font License (OFL).
+https://fonts.google.com/specimen/Pangolin
 
 
 
